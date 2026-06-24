@@ -160,7 +160,9 @@ I intended the model to distinguish reasoned arguments from opinions and emotion
 2. **Failure analysis:** After training, I gave Claude the list of misclassified posts and asked for patterns. It suggested that exclamatory language and short posts were over‑represented in errors. I verified this and confirmed that 8 of 10 errors were reactions misclassified as hot_take, often with exclamation marks.
 
 ## Demo Video
-You can watch the demo video directly in this repository:  
-📹 **[Click here to view demo.mp4](demo.mp4)**
 
-*(If the video doesn't play in your browser, download it and open with a video player.)*
+Here's a short demo of the classifier in action:
+
+![TakeMeter Demo](demo.gif)
+
+*(If the GIF doesn't play, download it and open it locally.)*
